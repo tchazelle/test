@@ -1,4 +1,4 @@
-github
+// NOTICE github (version en ligne)
 
 http://git-scm.com/downloads
 
