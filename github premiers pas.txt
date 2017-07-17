@@ -22,3 +22,10 @@ git checkout SHADuCommit
 
 // revenir à la dernière version
 git checkout master
+
+// après avoir créé un projet sur github.com
+
+git remote add origin https://github.com/tchazelle/test.git
+git push -u origin master
+
+// on peut modifier les sources en lignes, c'est chouette
