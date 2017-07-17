@@ -1,0 +1,16 @@
+github
+
+http://git-scm.com/downloads
+
+install git-2.13.1-intel-universal-mavericks.pkg
+(obligé de la débloquer dans Préférence système>Sécurité et confidencialité)
+
+git config --global user.name "tchazelle"
+git config --global user.email "tchazelle@wanadoo.fr"
+
+
+mkdir monPremierRepo
+cd monPremierRepo
+git init
+// pour ajouter tous les fichier du répertoire
+git add . 
