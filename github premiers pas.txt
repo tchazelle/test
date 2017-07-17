@@ -14,3 +14,11 @@ cd monPremierRepo
 git init
 // pour ajouter tous les fichier du répertoire
 git add . 
+
+git commit -a -m "Titre de la version"
+
+// revenir à la version n°….
+git checkout SHADuCommit 
+
+// revenir à la dernière version
+git checkout master
